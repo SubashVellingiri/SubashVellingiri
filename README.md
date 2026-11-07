@@ -533,39 +533,65 @@ Continued learning across enterprise systems, supply chain management, procureme
 <h2 align="center">How I Approach Problems</h2>
 
 <p align="center">
-A structured approach to understanding operational challenges and developing practical solutions.
+A structured five-step approach to turning operational challenges into measurable improvements.
 </p>
 
 <div align="center">
-<table width="90%" align="center">
+
+<table width="95%" align="center">
 <tr>
-<td align="center" width="20%">
-<img src="https://img.shields.io/badge/01-087E83?style=for-the-badge" alt="Understand"/>
-<br/><strong>Understand</strong>
-<br/><sub>Define the operational challenge</sub>
+<td width="20%" align="center" valign="top">
+<br/>
+<img src="https://img.shields.io/badge/01-087E83?style=for-the-badge" alt="Step 01"/>
+<br/><br/>
+<strong>Understand</strong>
+<br/><br/>
+<sub>Define the operational challenge and objectives.</sub>
+<br/><br/>
 </td>
-<td align="center" width="20%">
-<img src="https://img.shields.io/badge/02-3977B8?style=for-the-badge" alt="Analyse"/>
-<br/><strong>Analyse</strong>
-<br/><sub>Investigate data and processes</sub>
+
+<td width="20%" align="center" valign="top">
+<br/>
+<img src="https://img.shields.io/badge/02-3977B8?style=for-the-badge" alt="Step 02"/>
+<br/><br/>
+<strong>Analyse</strong>
+<br/><br/>
+<sub>Investigate data, processes and performance.</sub>
+<br/><br/>
 </td>
-<td align="center" width="20%">
-<img src="https://img.shields.io/badge/03-8055B7?style=for-the-badge" alt="Identify"/>
-<br/><strong>Identify</strong>
-<br/><sub>Find causes and opportunities</sub>
+
+<td width="20%" align="center" valign="top">
+<br/>
+<img src="https://img.shields.io/badge/03-8055B7?style=for-the-badge" alt="Step 03"/>
+<br/><br/>
+<strong>Identify</strong>
+<br/><br/>
+<sub>Find root causes and improvement opportunities.</sub>
+<br/><br/>
 </td>
-<td align="center" width="20%">
-<img src="https://img.shields.io/badge/04-CA8A04?style=for-the-badge" alt="Develop"/>
-<br/><strong>Develop</strong>
-<br/><sub>Build practical solutions</sub>
+
+<td width="20%" align="center" valign="top">
+<br/>
+<img src="https://img.shields.io/badge/04-CA8A04?style=for-the-badge" alt="Step 04"/>
+<br/><br/>
+<strong>Develop</strong>
+<br/><br/>
+<sub>Design practical and effective solutions.</sub>
+<br/><br/>
 </td>
-<td align="center" width="20%">
-<img src="https://img.shields.io/badge/05-16A34A?style=for-the-badge" alt="Evaluate"/>
-<br/><strong>Evaluate</strong>
-<br/><sub>Assess results and impact</sub>
+
+<td width="20%" align="center" valign="top">
+<br/>
+<img src="https://img.shields.io/badge/05-16A34A?style=for-the-badge" alt="Step 05"/>
+<br/><br/>
+<strong>Evaluate</strong>
+<br/><br/>
+<sub>Measure outcomes and assess business impact.</sub>
+<br/><br/>
 </td>
 </tr>
 </table>
+
 </div>
 
 ---
